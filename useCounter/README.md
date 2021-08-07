@@ -1,4 +1,8 @@
-#Notas
+#useCounter hook
+ejemplo
 
-Este es un ejemplo
+```
+ const { counter, increment, decrement, reset } = useCounter)(initialValue);
+
+```
 
